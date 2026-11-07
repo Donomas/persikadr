@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+output/
+*.log
+build/
+dist/
+*.spec
+*.bat
+*.exe
